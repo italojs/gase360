@@ -1,0 +1,17 @@
+
+*.mp4
+*.avi
+*.flv
+*.mkv
+*.mov
+
+*.png
+*.jpg
+*.jpeg
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
